@@ -1,4 +1,4 @@
-# notes
+# 小笔记
 
 ## [HRT](hrt.md)
 
