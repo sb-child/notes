@@ -1,5 +1,7 @@
 # Linux 日常
 
+[返回](README.md)
+
 ## Fedora - 清理旧软件包
 
 ```bash
