@@ -2,6 +2,13 @@
 
 [返回](README.md)
 
+## 索引
+
+- [跳转](#唑吡坦-思诺思httpszhwikipediaorgzh-hanse59491e590a1e59da6-精二): 唑吡坦 (思诺思) `精二`
+- [跳转](#喹硫平httpszhwikipediaorgzh-hanse596b9e7a1abe5b9b3-处方): 喹硫平 `处方`
+- [跳转](#劳拉西泮httpszhwikipediaorgzh-hanse58ab3e68b89e8a5bfe6b3ae-精二): 劳拉西泮 `精二`
+- [跳转](#艾司唑仑httpszhwikipediaorgzh-twe889bee58fb8e59491e4be96-精二): 艾司唑仑 `精二`
+
 ## [唑吡坦 (思诺思)](https://zh.wikipedia.org/zh-hans/%E5%94%91%E5%90%A1%E5%9D%A6) `精二`
 
 - 2024.06.18 01:23 (`+0 min`)
