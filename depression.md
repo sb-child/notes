@@ -2,7 +2,11 @@
 
 [返回](README.md)
 
-## 普瑞巴林
+## 索引
+
+- [跳转](#普瑞巴林httpszhwikipediaorgzh-hanse699aee7919ee5b7b4e69e97-精二): 普瑞巴林 `精二`
+
+## [普瑞巴林](https://zh.wikipedia.org/zh-hans/%E6%99%AE%E7%91%9E%E5%B7%B4%E6%9E%97) `精二`
 
 > 1 粒 (胶囊) = 75 mg
 
