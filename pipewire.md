@@ -2,6 +2,20 @@
 
 [返回](README.md)
 
+## 配置文件们
+
+### Pipewire
+
+```text
+/home/sbchild/.config/pipewire/pipewire.conf.d/01.conf
+```
+
+### wireplumber
+
+```text
+/home/sbchild/.config/wireplumber/wireplumber.conf.d/51-alsa-pro-audio.conf
+```
+
 ## 创建虚拟麦克风
 
 ```bash
