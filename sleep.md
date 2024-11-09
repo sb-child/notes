@@ -5,7 +5,7 @@
 ## 索引
 
 - [跳转](#唑吡坦-思诺思httpszhwikipediaorgzh-hanse59491e590a1e59da6-精二): 唑吡坦 (思诺思) `精二`: `10 mg` -> `淀粉片`
-- [跳转](#喹硫平httpszhwikipediaorgzh-hanse596b9e7a1abe5b9b3-处方): 喹硫平 `处方`: `12.5 mg` -> `30 min`
+- [跳转](#喹硫平httpszhwikipediaorgzh-hanse596b9e7a1abe5b9b3-处方): 喹硫平 `处方`: `25 mg` -> `30 min`
 - [跳转](#劳拉西泮httpszhwikipediaorgzh-hanse58ab3e68b89e8a5bfe6b3ae-精二): 劳拉西泮 `精二`: `3 mg` -> `104 min`
 - [跳转](#艾司唑仑httpszhwikipediaorgzh-twe889bee58fb8e59491e4be96-精二): 艾司唑仑 `精二`: `0.5 mg` -> `50 min`
 
