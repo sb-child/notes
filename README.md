@@ -2,7 +2,7 @@
 
 [返回](./)
 
-## [小药片们](medicine.md)
+## [小药片冷知识](medicine.md)
 
 ## [~~HRT~~ GAHT](hrt.md)
 
