@@ -1,16 +1,16 @@
-# Pipewire
+# PipeWire
 
 [返回](README.md)
 
 ## 配置文件们
 
-### Pipewire
+### PipeWire
 
 ```text
 /home/sbchild/.config/pipewire/pipewire.conf.d/01.conf
 ```
 
-### wireplumber
+### Wireplumber
 
 ```text
 /home/sbchild/.config/wireplumber/wireplumber.conf.d/51-alsa-pro-audio.conf

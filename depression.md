@@ -13,4 +13,8 @@
 - 2024.11.08 01:07
   > 口服 75 mg
 
-评价为: `对躯体化没有一点点抑制`
+评价为: `对躯体化(带来的疼痛)没有一点点抑制, 很可能是喂的不够多`
+
+解释: [躯体化](https://en.wikipedia.org/wiki/Somatization)
+
+但是 [Liet](https://github.com/lietblue) 不想给咱喂更多了... 也许是担心咱成瘾
