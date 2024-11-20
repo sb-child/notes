@@ -2,7 +2,9 @@
 
 [返回](./)
 
-## [HRT](hrt.md)
+## [小药片们](medicine.md)
+
+## [~~HRT~~ GAHT](hrt.md)
 
 ## [论如何睡觉](sleep.md)
 
