@@ -8,6 +8,10 @@
 
 解释: [小药片](https://zh.wikipedia.org/wiki/Category:%E7%B2%BE%E7%A5%9E%E8%8D%AF%E7%89%A9)
 
+## [药片热知识](medicine2.md)
+
+解释: [药片](https://zh.wikipedia.org/wiki/%E8%99%95%E6%96%B9%E8%97%A5)
+
 ## [~~HRT~~ GAHT](hrt.md)
 
 解释: [HRT](https://zh.wikipedia.org/wiki/%E6%BF%80%E7%B4%A0%E6%9B%BF%E4%BB%A3%E7%96%97%E6%B3%95) | [GAHT](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E6%BF%80%E7%B4%A0%E6%B2%BB%E7%96%97)
