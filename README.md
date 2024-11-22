@@ -45,3 +45,7 @@
 ### 4.1 [PipeWire](pipewire.md)
 
 解释: [PipeWire](https://zh.wikipedia.org/wiki/PipeWire)
+
+## 5 [知识库](wiki/README.md)
+
+全文所有术语的解释 (work in progress)
