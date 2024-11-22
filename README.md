@@ -34,10 +34,14 @@
 
 解释: [药娘(跨性别女性)](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7) | [炼成(性别不一致)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E4%B8%8D%E4%B8%80%E8%87%B4)
 
-## 3 [Linux 日常](linux-daily.md)
+## 3 [不是药品](chef/README.md)
+
+解释: [不是药品(食物)](https://zh.wikipedia.org/wiki/%E9%A3%9F%E7%89%A9)
+
+## 4 [Linux 日常](linux-daily.md)
 
 解释: [Linux](https://zh.wikipedia.org/wiki/Linux)
 
-### 3.1 [PipeWire](pipewire.md)
+### 4.1 [PipeWire](pipewire.md)
 
 解释: [PipeWire](https://zh.wikipedia.org/wiki/PipeWire)
