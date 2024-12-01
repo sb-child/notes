@@ -20,7 +20,7 @@
 
 ## 2 生命加速器
 
-~~总之就是让你睡过去之类的, 反正你肯定不会知道你睡了多长时间~~
+~~总之就是让你睡过去之类的, 反正你肯定不会知道你睡了多长时间,~~ 但是你的生命确实被加速了, 你确实变老了
 
 ### 2.1 [论如何睡觉](sleep.md)
 
@@ -31,6 +31,8 @@
 解释: [玉玉(抑郁)](https://zh.wikipedia.org/wiki/%E6%8A%91%E9%AC%B1)
 
 ## 3 糖!
+
+一种并不总是甜的东西, 确切来说它是无味的
 
 解释: [糖(女性化激素疗法:药物)](https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95#%E8%8D%AF%E7%89%A9)
 
@@ -43,6 +45,8 @@
 解释: [药娘(跨性别女性)](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7) | [炼成(性别不一致)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E4%B8%8D%E4%B8%80%E8%87%B4)
 
 ## 4 [买得到的粉末](chef/README.md)
+
+~~众所周知, [亚硝酸盐](https://zh.wikipedia.org/zh-hans/%E4%BA%9A%E7%A1%9D%E9%85%B8%E7%9B%90)也是能买到的食物~~
 
 解释: [买得到的粉末(食物)](https://zh.wikipedia.org/wiki/%E9%A3%9F%E7%89%A9)
 
