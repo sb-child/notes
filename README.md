@@ -58,6 +58,10 @@
 
 解释: [PipeWire](https://zh.wikipedia.org/wiki/PipeWire)
 
-## 6 [知识库](wiki/README.md)
+## 6 [Hi-Fi](hifi/README.md)
+
+解释: [Hi-Fi(高保真)](https://zh.wikipedia.org/wiki/%E9%AB%98%E4%BF%9D%E7%9C%9F)
+
+## 7 [知识库](wiki/README.md)
 
 全文所有术语的解释 (work in progress)
