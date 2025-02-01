@@ -21,3 +21,9 @@
 ```bash
 pactl load-module module-null-sink media.class=Audio/Source/Virtual sink_name=virt-mic channel_map=front-left,front-right
 ```
+
+## 创建虚拟输出
+
+```bash
+pactl load-module module-null-sink media.class=Audio/Sink sink_name=virt-output channel_map=front-left,front-right
+```
