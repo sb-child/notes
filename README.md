@@ -65,3 +65,22 @@
 ## 7 [知识库](wiki/README.md)
 
 全文所有术语的解释 (work in progress)
+
+## 许可
+
+### 原创作品和资源
+
+notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+### 非原创作品和资源
+
+#### 原件
+
+- assets/走出性别困境.pdf
+- assets/酒石酸唑吡坦片-stilnox-cn-20240831.pdf
+
+#### 扫描件
+
+- assets/盐酸帕罗西汀片.pdf
+- assets/盐酸曲唑酮片.pdf
+- assets/补佳乐.pdf
