@@ -387,10 +387,10 @@ A 是个很强的人, 可能同时是个双性恋; B 是个憨憨。我挺喜欢
 
 ## 11 邸奶奶
 
-很快, 2025 年 1 月 10 日早上, 神秘人物陪我去北京回龙观医院挂了 [dxl](https://mtf.wiki/zh-cn/docs/psyco/beijing/bhlgh/di-xiaolan/) 的特需, 然后我某个家里人也瞬移来了。我当时穿着神秘人物的药娘战袍, 在诊室, dxl 除了问我点情况, 然后就是对家里人输出, 就开了[小证](https://mtf.wiki/zh-cn/docs/psyco/overview/#colloquialism)。问完之后我去做了几个小时的量表, mmpi 我只做了 100 道我就不行了。
+很快, 2025 年 1 月 10 日早上, 神秘人物陪我去北京回龙观医院挂了 [dxl](https://mtf.wiki/zh-cn/docs/psyco/beijing/bhlgh/di-xiaolan/) 的特需, 然后我某个家里人也瞬移来了。我当时穿着神秘人物的药娘战袍, 在诊室, dxl 除了问我点情况, 然后就是对家里人输出, 就开了[小证](https://mtf.wiki/zh-cn/docs/psyco/overview/#colloquialism)。问完之后我去做了几个小时的量表, [mmpi](https://zh.wikipedia.org/zh-cn/%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%A4%9A%E9%A1%B9%E4%BA%BA%E6%A0%BC%E9%97%AE%E5%8D%B7) 我只做了 100 道我就不行了。
 
 > - 在诊室, 我爸爸说我妈妈是神经病
-> - 偶然得知下一个在门外等候的是个术娘
+> - 偶然得知下一个在门外等候的是个[术娘](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism#%E6%89%8B%E6%9C%AF%E5%85%9A%E3%80%81%E6%9C%AF%E5%A8%98)
 
 > ~~如需 HRT, SRS 请咨询专业机构~~
 >
