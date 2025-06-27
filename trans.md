@@ -2,7 +2,7 @@
 
 关于[你潘老](https://mtf.wiki/zh-cn/docs/hrt/puth/pan-bailin/)写的《走出性别困境》，请见“[这本填鸭式工具书](assets/走出性别困境.pdf)”。
 
-*引用这篇文章请注明来源*
+请在许可证允许的范围内使用: *notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/*, *引用这篇文章请注明来源*
 
 [返回](README.md)
 
