@@ -2,7 +2,7 @@
 
 关于[你潘老](https://mtf.wiki/zh-cn/docs/hrt/puth/pan-bailin/)写的《走出性别困境》，请见“[这本填鸭式工具书](assets/走出性别困境.pdf)”。
 
-请在许可证允许的范围内使用: *notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/*, *引用这篇文章请注明来源*
+请在许可证允许的范围内使用: *notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/*。*引用, 转载这篇文章请注明来源*
 
 [返回](README.md)
 
@@ -14,7 +14,7 @@
 - `2017.09 - 2019` 德州庆云, 庆云四中
 - `2019 - 2019 下旬` 济南, 济南技师学院 2017 届 (插班)
 - `2019 下旬 - 2020 下旬` 济南, 济南技师学院 2019 届
-- `2020 下旬 - 2021 上旬` 德州庆云, 云天职业技术学院 2020 届 (和那个初中是同一所学校)
+- `2020 下旬 - 2021 上旬` 德州庆云, 云天职业技术学院 2020 届 (和初中是同一所学校)
 - `2021 下旬 - 2024 上旬` 济南, 济南技师学院 2021 届
 - `2024 下旬 - ...` 毕业
 
