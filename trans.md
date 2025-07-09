@@ -4,6 +4,8 @@
 
 请在许可证允许的范围内使用: *notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0>。引用, 转载这篇文章请注明来源*
 
+注意: 本文章尚未定稿, 内容还在持续更新。
+
 [返回](README.md)
 
 ## 0 TL;DR
