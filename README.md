@@ -74,7 +74,7 @@ notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonComme
 
 ### 非原创作品和资源
 
-#### 原件
+#### 原件(通常是从互联网下载的)
 
 - assets/走出性别困境.pdf
 - assets/酒石酸唑吡坦片-stilnox-cn-20240831.pdf
