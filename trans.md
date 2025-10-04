@@ -1199,7 +1199,7 @@ D 虽然表现出了听李讲课的兴趣，但是私下会告诉我李讲的东
 
 在药娘骰子的带领下，我在几个月里认识了好多人，无论顺跨。
 
-[术](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#srs)与没术，[糖](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#hrt)与无糖，[pass](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#pass) 与否，有援交的，有上班的，有 od 割手手自残的，有技术大佬，还有 mtf.wiki maintainer... 但是这些标签对我来说并不重要，能蹭蹭的猫都是好猫。大多数情况下，这种交情的含金量远高于普通同学吧。
+[术](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#srs)前术后，含[糖](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#hrt)无糖，[pass](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#pass) 与否，援交也，上班也，od 割手手自残也，技术大佬也，亦或 mtf.wiki maintainer... 叠高高的帽子或许并不光鲜亮丽，能蹭蹭的猫都是好猫。大多数情况下，这种交情的含金量远高于普通同学吧。
 
 有些人的故事很丰富，使我重新认识了我之前认识的人。光鲜亮丽的背后，也许是在残酷现实和社会中的无数次垂死挣扎，以及留下的几乎无法填补的记忆黑洞。嗯，除了[家长党](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#%e5%ae%b6%e9%95%bf%e5%85%9a)。
 
