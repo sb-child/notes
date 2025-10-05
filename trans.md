@@ -118,6 +118,8 @@
 
 在 2017 年 7 月 15 日，我家里人把我们一家人带到了河北省[北戴河](https://zh.wikipedia.org/wiki/%E5%8C%97%E6%88%B4%E6%B2%B3%E5%8C%BA)海边蹚水，我还穿着那件黄绿色的衬衫和深蓝色短裤，但是我没有正面露脸过，我一直在躲镜头。
 
+在 2017 年 7 月 19 日，我们来欢乐谷旅游，全国有几个，还不知道具体是哪里的。我躲过镜头，在拍合照时我故意低头看宣传册。
+
 在 2017 年 8 月 5 日，我家里人还带了点亲戚朋友，到北京市去爬[长城](https://zh.wikipedia.org/wiki/%E9%95%BF%E5%9F%8E)。我虽换了身黑色衬衫，但还穿着那件短裤。我也一直在躲镜头，我没有露过正脸。我甚至抢过手机编辑了一张他们拍的照片，给自己打了[马赛克](<https://zh.wikipedia.org/wiki/%E9%A6%AC%E8%B3%BD%E5%85%8B_(%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86)>)。
 
 并不意外的是，我姐姐，我哥哥，和我都就读了四中。
@@ -1197,9 +1199,9 @@ D 虽然表现出了听李讲课的兴趣，但是私下会告诉我李讲的东
 
 ## 结语
 
-在药娘骰子的带领下，我在几个月里认识了好多人，无论顺跨。
+谢谢药娘骰子让我在短短的时间里认识了好多人，无论顺跨。
 
-[术](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#srs)前术后，含[糖](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#hrt)无糖，[pass](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#pass) 与否，援交也，上班也，od 割手手自残也，技术大佬也，亦或 mtf.wiki maintainer... 叠高高的帽子或许并不光鲜亮丽，能蹭蹭的猫都是好猫。大多数情况下，这种交情的含金量远高于普通同学吧。
+[术](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#srs)前术后，含[糖](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#hrt)无糖，[pass](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#pass) 也，援交也，上班也，od 割手手自残也，技术大佬也，亦或 mtf.wiki maintainer... 叠高高的帽子或许并不光鲜亮丽，能蹭蹭的猫都是好猫。大多数情况下，这种交情的含金量远高于普通同学吧。
 
 有些人的故事很丰富，使我重新认识了我之前认识的人。光鲜亮丽的背后，也许是在残酷现实和社会中的无数次垂死挣扎，以及留下的几乎无法填补的记忆黑洞。嗯，除了[家长党](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#%e5%ae%b6%e9%95%bf%e5%85%9a)。
 
