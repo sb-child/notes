@@ -2,6 +2,8 @@
 
 简单记录一些东西, 可能时不时会用到, 也可能经常更新
 
+既然你能点进来，那我猜你很可能是在找[我的自传](https://github.com/sb-child/notes/blob/main/trans.md)
+
 [返回](./)
 
 ## 目录
