@@ -2,7 +2,11 @@
 
 关于[你潘老](https://mtf.wiki/zh-cn/docs/hrt/puth/pan-bailin/)写的《走出性别困境》，请见“[这本填鸭式工具书](assets/走出性别困境.pdf)”。
 
-请在许可证允许的范围内使用：_notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license，visit <https://creativecommons.org/licenses/by-nc-sa/4.0>。引用，转载这篇文章请注明来源_
+请在许可证允许的范围内使用：
+
+> [notes](https://github.com/sb-child/notes) © 2025 by [sbchild](https://github.com/sb-child) is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license，visit <https://creativecommons.org/licenses/by-nc-sa/4.0>
+>
+> 引用，转载这篇文章请注明[来源](https://github.com/sb-child/notes/blob/main/trans.md)。
 
 注意: 本文章尚未定稿，内容还在持续更新。
 
@@ -20,15 +24,44 @@
 >
 > 为了避免色妹妹悄然离世，给色妹妹的朋友们带来心理落差，所以色妹妹在有生之年特地编写了这个数据集，使用这个数据集微调的 LLM 大概率会拥有和色妹妹相仿的说话风格喵~
 >
-> -- https://github.com/sb-child/for-you
+> -- <https://github.com/sb-child/for-you> 于 2024 年 5 月初
 
 虽然小学时期就发生过些许事情，但我认为应该从初中开始说起。当时大概是 2017 年，是我刚进入初中的年代。但是呢，我只在初中待了 1.5 年就退学了，没有毕业，没有中考也没有高考。
 
 但是 [GAHT](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#hrt) 真的给之前的记忆蒙上了一层灰，我几乎忘记了当时「我」的内心是什么样的。所以我认为是时候「[朝花夕拾](https://zh.wikipedia.org/wiki/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE)」了，虽然自始至终没一件好事。
 
+## 其实是废话的术语表
+
+<details>
+<summary>点击这行字显示或隐藏下文</summary>
+
+- 小证？大证？
+  - 前者指的是病历，后者是诊断证明。前者可以用来去医院开糖，后者是在国内术的前置条件之一。
+- 糖？
+  - 废话。糖指的是那些像喝水那样每天都会吃的东西，毕竟那一堆性激素药是真的平常每天像喝水那样吃。
+- od？
+  - overdose 的缩写
+- 吃糖/HRT/GAHT/...whatever
+  - 在这个语境下是同一个东西。
+- 补？色？
+  - 废话。补佳乐（戊酸雌二醇片），色普龙（醋酸环丙孕酮）。
+- 术娘？
+  - 顾名思义，术了的小跨妹。
+- 术/SRS/...whatever
+  - 在这个语境下是同一个东西。
+- GD/性别焦虑/性别烦躁/...whatever
+  - 在这个语境下是同一个东西。
+- pass
+  - 形容词。指性别表达取得第三者视角认同。
+
+</details>
+
 ## too long; didn't read
 
 以下是一些重要且模糊的时间线。我知道多出这一章节其实很突兀，但是我需要一个框架来整理我乱七八糟的记忆。
+
+<details>
+<summary>点击这行字显示或隐藏下文</summary>
 
 ### 上学
 
@@ -50,6 +83,8 @@
 
 - `2024.09.10` 准备跑路
 - `2024.10.02 - 2024.10.06` 德州 -> 济南 -> 宁波 -> 杭州
+
+</details>
 
 ## 幼年的记忆碎片
 
@@ -108,7 +143,7 @@
 
 小学对我来说是些许痛苦的，有时作业是不熬夜写不完的。很多时候我会无故被排挤和欺负，即使我哥哥和我姐姐(也就读这个小学)尝试报复对方，也没有任何实际作用。体育课上我经常一个人呆在角落，很少参加集体的体育活动，而且我协调性差到难以跳绳。曾经有几个人用地上的石头砸我，我不知道为什么。
 
-我是偏科的。我语文和数学成绩在明显的下滑，但英语是好的，我曾经被选为英语小组组长。好像是三年级还是四年级，开设了微机课，我们微机老师脾气比较大，每次上课总会抓到什么学生在玩 CS。在课上，老师教我们使用金山画王 2006，但是我超纲地学会了做 PPT，我熟练地做过两个人用大炮对轰的动画给旁边人看。
+我是偏科的。我语文和数学成绩在明显的下滑，但英语是好的，我曾经被选为英语小组组长。好像是三年级还是四年级，开设了微机课，我们微机老师脾气比较大，每次上课总会抓到什么学生在玩 [CS](https://wuu.wikipedia.org/wiki/%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B1)。在课上，老师教我们使用金山画王 2006，但是我超纲地学会了做 PPT，我熟练地做过两个人用大炮对轰的动画给旁边人看。
 
 我进过三个午托部，它门口都藏在小胡同里。其中一个通常中午有几个年龄比我大的学生看到我就追，因为我好欺负，我当时满屋子跑。另一个... 是学校的邻居，通常要走后门进去，后来学校把那个门封死了。有个午托的门在澡堂的走廊尽头。有次晚上下雨天，没人来接我，我在路边看到了语文老师的手机... 走回家的路上，这个手机来电话了，我把手机还给了赶到家门口的语文老师。后来我在作文里写过这回事。
 
