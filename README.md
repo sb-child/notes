@@ -64,7 +64,13 @@
 
 解释: [Hi-Fi(高保真)](https://zh.wikipedia.org/wiki/%E9%AB%98%E4%BF%9D%E7%9C%9F)
 
-## 7 [知识库](wiki/README.md)
+## 7 [osu!](osu/README.md)
+
+其实主要是一些 tricks。
+
+解释: [osu!](https://osu.ppy.sh/), 一款音游([music game](https://en.wikipedia.org/wiki/Music_video_game) / [rhythm game](https://en.wikipedia.org/wiki/Rhythm_game))。
+
+## 8 [知识库](wiki/README.md)
 
 全文所有术语的解释 (work in progress)
 
