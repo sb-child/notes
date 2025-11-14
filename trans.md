@@ -1469,13 +1469,15 @@ F 呢，是并不顺的无糖反跨(或许只是开玩笑)的顺男，和我某�
 
 ## 结语
 
+那我是什么呢？我怎样定义我呢？我应该胎死腹中？身体不是我造的，姓名不是我起的，ID 也不是我选的，就连出生点都不是我预期的。就像自己被蒙在鼓里，被什么东西操控着，看别人都是 NPC，甚至自己也是 NPC？我常有这种感觉，但谁也无法解释。
+
 陈年旧事，虽然散落在零碎的记忆中不再拾起，就好像从未经历过一样，总有一种距离感。但是它们确实发生过，也许想起就会让自己掉小珍珠。可能是某种心理防御吧，从阴霾中走出来，同时也是告别阴霾。
 
 谢谢药娘骰子让我在短短的时间里认识了好多人，无论顺跨。
 
 [术](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#srs)前术后，含[糖](https://mtf.wiki/zh-cn/docs/useful-info/abbreviation/#hrt)无糖，[pass](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#pass) 也，援交也，上班也，od 割手手自残也，技术大佬也，亦或 [mtf.wiki](https://mtf.wiki) maintainer... 叠高高的帽子或许并不光鲜亮丽，能蹭蹭的猫都是好猫。大多数情况下，这种交情的含金量远高于普通同学吧。
 
-有些人的故事很丰富，使我重新认识了我之前认识的人。光鲜亮丽的背后，也许是在残酷现实和社会中的无数次垂死挣扎，以及留下的几乎无法填补的记忆黑洞。嗯，除了[家长党](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#%e5%ae%b6%e9%95%bf%e5%85%9a)。
+有些人的故事很丰富，使我重新认识了我之前认识的人。光鲜亮丽的背后，也许是在残酷现实和社会中的无数次垂死挣扎，以及留下的几乎无法填补的记忆黑洞。~~嗯，除了[家长党](https://mtf.wiki/zh-cn/docs/useful-info/colloquialism/#%e5%ae%b6%e9%95%bf%e5%85%9a)。~~
 
 (Part 1 完)
 
