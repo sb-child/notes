@@ -1,12 +1,10 @@
 # 药娘是怎么炼成的
 
-关于[你潘老](https://mtf.wiki/zh-cn/docs/hrt/puth/pan-bailin/)写的《走出性别困境》，请见“[这本填鸭式工具书](assets/走出性别困境.pdf)”。某种意义上本文是对这本书的扩充或者讽刺。
+关于[你潘老](https://mtf.wiki/zh-cn/docs/hrt/puth/pan-bailin/)写的《走出性别困境》，请看“[这本填鸭式工具书](assets/走出性别困境.pdf)”。某种意义上本文是对这本书的扩充或者讽刺。
 
-请在许可证允许的范围内使用：
+请在许可证允许的范围内使用，引用或转载这篇文章请注明[来源](https://github.com/sb-child/notes/blob/main/trans.md)。
 
-> [notes](https://github.com/sb-child/notes) © 2025 by [sbchild](https://github.com/sb-child) is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license，visit <https://creativecommons.org/licenses/by-nc-sa/4.0>.
->
-> 引用，转载这篇文章请注明[来源](https://github.com/sb-child/notes/blob/main/trans.md)。
+> [notes](https://github.com/sb-child/notes) © 2025 by [sbchild](https://github.com/sb-child) is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0>.
 
 注意: 本文章尚未定稿，内容还在持续更新。
 
