@@ -1,8 +1,10 @@
 # Emotional Damage
 
-对对对，[Emotional Damage](https://www.youtube.com/watch?v=PWZnenTQDB4)!
+对对对，read after me！[Emotional Damage](https://www.youtube.com/watch?v=PWZnenTQDB4)!
 
-请在许可证允许的范围内使用，引用或转载这篇文章请注明[来源](https://github.com/sb-child/notes/blob/main/emo.md)。
+以眸身の，**呆没至**！
+
+请在许可证允许的范围内使用。引用或转载这篇文章请注明[来源](https://github.com/sb-child/notes/blob/main/emo.md)。
 
 > [notes](https://github.com/sb-child/notes) © 2025 by [sbchild](https://github.com/sb-child) is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0>.
 
@@ -31,3 +33,13 @@ _Emotional Damage_
 如果说，[《药娘是怎么炼成的》](./trans.md) 是遥远的星河，那本文会耀眼得让人想哭。
 
 我是追逐着你的[眼眸](./trans.md#梦开始的地方)，总在孤单时候眺望[夜空](./trans.md#transition)...
+
+## 气质
+
+就，给人一种，可以亲近的感觉，可以亲近到负数。
+
+啊对这就是你不检点的地方，你没有一点女德啊，在路边掀自己裙底你不知道多少人盯着你大腿看吗？
+
+## 蜜语
+
+todo
