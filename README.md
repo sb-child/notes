@@ -78,7 +78,7 @@
 
 ### 原创作品和资源
 
-notes © 2025 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+[notes](https://github.com/sb-child/notes) © ~~2025~~ 2026 by sbchild is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### 非原创作品和资源
 
