@@ -84,6 +84,8 @@ _Emotional Damage_
 
 _Emotional Damage_
 
+> 是真的提着拖把去的女厕所啊，连里面一扇门都没掀。
+>
 > 此事在《同桌的你》中亦有记载。
 
 ## 冲一发
