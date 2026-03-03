@@ -62,6 +62,8 @@ One day I will cut my baby boy, and I'll be a she.
 
 _Emotional Damage_
 
+> “今天又幸运地从互联网上学到了，可以管格调叫裙撑，因为你的格调可以撑起裙”
+>
 > 此事在《玫瑰少年》中亦有记载。
 
 ## 早恋
