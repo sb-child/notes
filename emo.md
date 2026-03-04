@@ -8,6 +8,8 @@
 
 > [notes](https://github.com/sb-child/notes) © ~~2025~~ 2026 by [sbchild](https://github.com/sb-child) is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0>.
 
+官方封面: https://gh.sbchild.top/posts/emotional-damage/
+
 注意: 本文章尚未定稿，内容还在持续更新。
 
 推荐看完前置依赖[《药娘是怎么炼成的》](./trans.md)再阅读本文。
