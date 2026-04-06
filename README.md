@@ -92,3 +92,9 @@
 - assets/盐酸帕罗西汀片.pdf
 - assets/盐酸曲唑酮片.pdf
 - assets/补佳乐.pdf
+
+#### library
+
+详见[那边](library/README.md)
+
+- library/\*
