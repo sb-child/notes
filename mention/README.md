@@ -1,6 +1,6 @@
 # Mention
 
-我穿越回过去，提起那个事情。
+我穿越回过去，提起那个故人。
 
 请在许可证允许的范围内使用。引用或转载这篇文章请注明[来源](https://github.com/sb-child/notes/blob/main/mention/README.md)。
 
@@ -12,8 +12,9 @@
 
 [返回](/README.md)
 
-## 提起哪个事情
+## 哪个故人
 
 **高光时刻**：
 
 - [怀旭](./person-huai-xu.md)：“胜学数理化，就凭技术走天下！”
+- [李永民](./person-li-yongmin.md)：“我现在不想讨论(这个问题)。”

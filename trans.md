@@ -351,7 +351,7 @@
 
 ## 李老师和他的工作室
 
-李老师，名李永民<u>([1](https://lyhlx.sdmc.edu.cn/__local/7/EF/59/0CD00DB3EF5C6AC8459E8CF6026_5521C379_6A9596.pdf?e=.pdf): 第一届全国技能大赛山东省选拔赛，室内装饰设计第五名，李永民，济南市技师学院, [2](https://www.zgzyxxzs.com/news/6905.html): 齐鲁技能名师优胜奖, [3](https://jg.class.com.cn/cms/res_base/ldcbs/upload/article/file/2023_1/2_6/hr7hlds3hsr8.pdf): 专业课微课比赛获奖者，济南市技师学院，李永民、马东霞，车床结构及基本传动)</u>，济南人，是大忙人，不喜欢用即时通信软件。是我校少见的「优秀教师」-- 也许吧，年过半百要退休了。手下有不只两个自己提拔出来的学生，都深知李老师的黑暗内幕。
+[李老师](./mention/person-li-yongmin.md)，名李永民<u>([1](https://lyhlx.sdmc.edu.cn/__local/7/EF/59/0CD00DB3EF5C6AC8459E8CF6026_5521C379_6A9596.pdf?e=.pdf): 第一届全国技能大赛山东省选拔赛，室内装饰设计第五名，李永民，济南市技师学院, [2](https://www.zgzyxxzs.com/news/6905.html): 齐鲁技能名师优胜奖, [3](https://jg.class.com.cn/cms/res_base/ldcbs/upload/article/file/2023_1/2_6/hr7hlds3hsr8.pdf): 专业课微课比赛获奖者，济南市技师学院，李永民、马东霞，车床结构及基本传动)</u>，济南人，是大忙人，不喜欢用即时通信软件。是我校少见的「优秀教师」-- 也许吧，年过半百要退休了。手下有不只两个自己提拔出来的学生，都深知李老师的黑暗内幕。
 
 这个老师喜欢讲课，喜欢有人给他捧场，在工作室也不例外。但是他的观念也没几个人信，他认可[社会达尔文主义](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E8%BE%BE%E5%B0%94%E6%96%87%E4%B8%BB%E4%B9%89)，相信恶念能让苹果腐烂（《水知道答案》-- [江本胜](https://zh.wikipedia.org/zh-hans/%E6%B1%9F%E6%9C%AC%E5%8B%9D)），喜欢把封建时代的思想搬到现代，用于维护他自己那可怜的权威，曾经在讲课时当着几个人的面批评我 [transition](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E9%81%8E%E6%B8%A1) 的事情。
 
