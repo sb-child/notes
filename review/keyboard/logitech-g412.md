@@ -12,20 +12,24 @@
 
 ## 设备特征
 
-接口: USB
+接口: USB(Full Speed, `046d:c34a`)
 
-`lsusb -vvv`
+<details><summary><code>lsusb -vvv</code></summary>
 
 ```
 todo
 ```
 
+</details>
+
 ## 性能指标
 
-条件: USB, 出厂设置
+**条件: USB, 默认设置**
 
 | Key                | Value            |
 | ------------------ | ---------------- |
 | Resolution         | ≥ 1000Hz (≤ 1ms) |
 | Hold Time          | ≤ 15ms           |
 | keystroke Interval | < 1ms            |
+
+这款键盘标称 1000Hz 回报率，并且它表现良好。

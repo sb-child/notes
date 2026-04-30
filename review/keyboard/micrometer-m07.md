@@ -14,6 +14,8 @@
 
 屏幕排线只应该塞进 FPC 座子一点点就刚好锁住，这是预期的，但强度可能不够。
 
+到手一定先看看单片机是不是虚焊了，避免带来不必要的麻烦。
+
 如果轴塞不进去，应该用锉刀给轴的四边磨掉一些，我担心铝板变形。
 
 初次开机，记得长按旋钮，进入设置：
@@ -26,9 +28,9 @@
 
 ## 设备特征
 
-接口: USB
+接口: USB(Full Speed, 0483:5740)
 
-`lsusb -vvv`
+<details><summary><code>lsusb -vvv</code></summary>
 
 ```
 Bus 001 Device 012: ID 0483:5740 STMicroelectronics Virtual COM Port
@@ -121,12 +123,16 @@ Device Descriptor:
         bInterval              10
 ```
 
+</details>
+
 ## 性能指标
 
-条件: USB, Rapid Trigger
+**条件: USB, Rapid Trigger 默认设置**
 
 | Key                | Value       |
 | ------------------ | ----------- |
 | Resolution         | 125Hz (8ms) |
 | Hold Time          | ≥ 16ms      |
 | keystroke Interval | ≥ 16ms      |
+
+这组数据有多么可怕，两个键尽可能同时按，它也能分出先后，加上 `16+(8n)`ms 的间隔。
