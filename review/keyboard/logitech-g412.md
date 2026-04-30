@@ -30,6 +30,6 @@ todo
 | ------------------ | ---------------- |
 | Resolution         | ≥ 1000Hz (≤ 1ms) |
 | Hold Time          | ≤ 15ms           |
-| keystroke Interval | < 1ms            |
+| keystroke Interval | ≤ 1ms            |
 
 这款键盘标称 1000Hz 回报率，并且它表现良好。
