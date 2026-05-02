@@ -42,7 +42,7 @@
 
 解释: [HRT(激素替代疗法)](https://zh.wikipedia.org/wiki/%E6%BF%80%E7%B4%A0%E6%9B%BF%E4%BB%A3%E7%96%97%E6%B3%95) | [GAHT(性别肯定激素治疗)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E6%BF%80%E7%B4%A0%E6%B2%BB%E7%96%97)
 
-#### 3.2 扩展阅读: [药娘是怎么炼成的](trans.md)
+#### 3.2 扩展阅读: [药娘是怎样炼成的](trans.md)
 
 解释: [药娘(跨性别女性)](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7) | [炼成(性别不一致)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E4%B8%8D%E4%B8%80%E8%87%B4)
 
