@@ -8,6 +8,8 @@
 
 ## Pipewire 与音频延迟
 
+**update: 现在我有了新发现，请移步至**[此处](https://github.com/sb-child/audio-latency-tester)。
+
 想必你也是厌倦了 audio offset 到底该怎么调...
 
 我已经替你蹚过浑水了，以下是你需要做的事情：
