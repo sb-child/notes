@@ -1,0 +1,17 @@
+name: Trigger Blog Rebuild
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Repository Dispatch to sb-child/sb-child
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.TRIGGER_BLOG_REBUILD_TOKEN }}
+          repository: sb-child/sb-child
+          event-type: on-notes-commited
