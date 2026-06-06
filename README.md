@@ -46,6 +46,10 @@
 
 解释: [药娘(跨性别女性)](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7) | [炼成(性别不一致)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E4%B8%8D%E4%B8%80%E8%87%B4)
 
+#### 3.3 扩展阅读: [日记存档](journal-archive/README.md)
+
+我都快忘了它放哪了。
+
 ## 4 [买得到的粉末](chef/README.md)
 
 ~~众所周知, [亚硝酸盐](https://zh.wikipedia.org/zh-hans/%E4%BA%9A%E7%A1%9D%E9%85%B8%E7%9B%90)也是能买到的食物~~
